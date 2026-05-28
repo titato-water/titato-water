@@ -2,9 +2,11 @@
 
 ```
 #titato {
-  position: public_of_korea;
+  from: public_of_korea;
+  Gender: male;
+  age: 26;
   height: 177cm;
-  background: coding learner 🏃‍♀️‍➡️;
+  work: coding learner 🏃‍♀️‍➡️;
 }
 ```
 
