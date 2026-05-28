@@ -8,4 +8,4 @@
 }
 ```
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&render&fontSize=90)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
