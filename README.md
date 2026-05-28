@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=auto&section=header&text=Hi%20Dev%20frends%20I'm%20SangBin!%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=auto&section=header&text=Hi%20Dev%20frends%20I'm%20SangBin!%20&fontSize=50)
 <!--
 **titato-water/titato-water** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
