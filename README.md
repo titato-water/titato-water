@@ -20,6 +20,7 @@
 🎯 Goal
 
 사용자의 입장에서 생각하고, 더 나은 사용자 경험을 제공하는 프론트엔드 개발자로 성장하는 것이 목표입니다.
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=titato-water&style=flat)
